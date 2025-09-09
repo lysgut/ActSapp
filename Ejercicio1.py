@@ -7,7 +7,7 @@ if edad >= 18:
 
 
 if edad >= 18:
-    if tiene_lcn:
+    if tiene_lnc:
         print(nombre, "puede manejar porque es mayor y tiene licencia nacional de conducir.")
     else:
         print(nombre, "es mayor de edad pero no tiene licencia nacional de conducir.")
